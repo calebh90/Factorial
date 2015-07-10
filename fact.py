@@ -11,6 +11,6 @@ def cosfunc(x):
 	if x == "yes":
 		return ("Ok, the cosine of "+ str(n) + " is " + str(fact2(n)))
 	else:
-		return "Ok, have a good day! :)"
+		return "Ok... have a good day! :)"
 
 print(cosfunc(Quest))
