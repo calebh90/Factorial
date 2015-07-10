@@ -3,7 +3,7 @@ from cmath import cos
 
 fact = factorial
 fact2 = cos
-n = int(input("What number do you want to factor? "))
+n = int(input("Hi! What number do you want to factor? "))
 print("The factor of", n , "is" , fact(n))
 
 Quest = input("Do you want to do know the cosine of " + str(n) + "? ").lower()
